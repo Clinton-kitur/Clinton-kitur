@@ -13,5 +13,5 @@
 📈 Continuous learning is at the heart of my journey, and I'm constantly exploring new technologies and methodologies to elevate my skills and create even more remarkable products.
 
 🤝 Let's connect! If you have any questions, want to collaborate, or just want to chat about tech and development, feel free to reach out. Together, we can shape the future of mobile applications and beyond! 😄
-- 📫 How to reach me: www.linkedin.com/in/clinton-kitur-149b90262
+📫 How to reach me: [www.linkedin.com/in/clinton-kitur-149b90262](https://www.linkedin.com/in/clinton-kitur-149b90262)https://www.linkedin.com/in/clinton-kitur-149b90262
 
