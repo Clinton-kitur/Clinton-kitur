@@ -1,44 +1,42 @@
-![](https://komarev.com/ghpvc/?username=evanswanyoike&style=flat-square)
+![](https://komarev.com/ghpvc/?username=ClintonPy&style=flat-square)
 
-👋 Hey there! Welcome to my GitHub! I'm a passionate mobile application developer with extensive experience in crafting stunning cross-platform apps using React Native. I'm also well-versed in the world of backend development, particularly in Python with the Django and Django Rest Framework.
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+</div>
 
 <div id="badges" align="center">
-  <a href="https://www.linkedin.com/in/evans-wanyoike">
+  <a href="https://www.linkedin.com/in/clinton-kitur-149b90262/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-  <a href="your-youtube-URL">
+  <a href="https://www.youtube.com/@Clin404">
     <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
   </a>
-  <a href="https://twitter.com/evansw17">
+  <a href="https://twitter.com/ClinKtur">
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
-  <a href="https://wa.me/qr/iiu2pzi7zq2ta1">
+  <a href="https://">
     <img src="https://img.shields.io/badge/Whatsapp-blue?style=for-the-badge&logo=whatsapp&logoColor=green" alt="Whatsapp Badge"/>
   </a>
 </div>
 
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=evanswanyoike&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=2B5BBD&icon_color=1124BB&text_color=A1A1A1&bg_color=0,000000,130F40" alt="my Github Stats"/>
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=ClintonPy&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=2B5BBD&icon_color=1124BB&text_color=A1A1A1&bg_color=0,000000,130F40" alt="my Github Stats"/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=evanswanyoike&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=ClintonPy&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi" />
 
-🌐 Collaboration and open-source have been integral to my growth as a developer. I'm excited to share my projects, contribute to existing ones, and collaborate with like-minded individuals on innovative solutions that push the boundaries of technology.
+<!-- ### Hi there 👋
 
-📈 Continuous learning is at the heart of my journey, and I'm constantly exploring new technologies and methodologies to elevate my skills and create even more remarkable products.
+<div align="center">
+  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
+</div>
+-->
 
 ### :woman_technologist: About Me :
 
-- :telescope: I’m working as a Software Engineer and contributing to frontend and backend for building web applications.
+- :telescope: Experienced mobile app developer with expertise in React Native and backend development using Python/Django. Enthusiastic about open-source collaboration and continuous learning. Let's connect to create exceptional mobile applications together! 🚀
 
-- :seedling: Exploring Technical Content Writing.
-
-- :zap: In my free time, I solve problems on GeeksforGeeks and read tech articles.
-
-- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Evans-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/evans-wanyoike)
+- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Clinton-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/clinton-kitur-149b90262)
 
 ### :hammer_and_wrench: Languages and Tools :
-
-  <img src="https://github.com/devicons/devicon/blob/master/icons/flutter/flutter-original.svg" title="Flutter" alt="Flutter" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/dart/dart-original.svg" title="Dart" alt="Dart" width="40" height="40"/>&nbsp;
    <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
    <img src="https://github.com/devicons/devicon/blob/master/icons/django/django-plain.svg" title="Django" alt="Django" width="40" height="40"/>&nbsp;     
   <img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original-wordmark.svg" title="Bootstrap" alt="Bootstrap" width="40" height="40"/>&nbsp;
@@ -53,13 +51,13 @@
 <!--     <img src="" title="" alt="" width="40" height="40"/>&nbsp; -->
 ### :fire: My Stats :
 
-<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=evanswanyoike&layout=compact&theme=vision-friendly-dark)](https://github.com/evanswanyoike/github-readme-stats) -->
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=evanswanyoike&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
+<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ClintonPy&layout=compact&theme=vision-friendly-dark)](https://github.com/ClintonPy/github-readme-stats) -->
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=ClintonPy)](https://git.io/streak-stats)
 
 <!-- ### :writing_hand: Blog Posts : -->
 
 <!--
-**evanswanyoike/evanswanyoike** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**ClintonPy/ClintonPy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
@@ -73,5 +71,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<!-- ![Snake animation](https://github.com/evanswanyoike/github-readme/blob/output/github-contribution-snake.svg) -->
+<!-- ![Snake animation](https://github.com/ClintonPy/github-readme/blob/output/github-contribution-snake.svg) -->
 
+<a href="https://readme-jokes.vercel.app"><img align="center" src="https://readme-jokes.vercel.app/api" alt="README Jokes"></a>
