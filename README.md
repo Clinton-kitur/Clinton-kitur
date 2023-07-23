@@ -1,4 +1,4 @@
-![](https://komarev.com/ghpvc/?username=ClintonPy&style=flat-square)
+![](https://komarev.com/ghpvc/?username=Clinton-kitur&style=flat-square)
 
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
@@ -52,7 +52,7 @@
 ### :fire: My Stats :
 
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ClintonPy&layout=compact&theme=vision-friendly-dark)](https://github.com/ClintonPy/github-readme-stats) -->
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=ClintonPy)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Clinton-kitur)](https://git.io/streak-stats)
 
 <!-- ### :writing_hand: Blog Posts : -->
 
