@@ -26,6 +26,17 @@
 
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Clinton-kitur&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi" />
+
+
+
+
+
+
+### :fire: My Stats :
+
+<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ClintonPy&layout=compact&theme=vision-friendly-dark)](https://github.com/ClintonPy/github-readme-stats) -->
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Clinton-kitur)](https://git.io/streak-stats)
+
 ### :hammer_and_wrench: Languages and Tools :
    <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
    <img src="https://github.com/devicons/devicon/blob/master/icons/django/django-plain.svg" title="Django" alt="Django" width="40" height="40"/>&nbsp;     
@@ -41,19 +52,10 @@
 <!--  <img src="" title="" alt="" width="40" height="40"/>&nbsp; -->
 
 
-
-
-
-
-### :fire: My Stats :
-
-<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ClintonPy&layout=compact&theme=vision-friendly-dark)](https://github.com/ClintonPy/github-readme-stats) -->
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Clinton-kitur)](https://git.io/streak-stats)
-
 <!-- ### :writing_hand: Blog Posts : -->
 
 <!--
-**ClintonPy/ClintonPy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**clinton-kitur/clinton-kitur** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
