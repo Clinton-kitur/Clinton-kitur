@@ -21,6 +21,10 @@
 
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=Clinton-kitur&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=2B5BBD&icon_color=1124BB&text_color=A1A1A1&bg_color=0,000000,130F40" alt="my Github Stats"/>
 
+
+
+
+
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Clinton-kitur&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi" />
 ### :hammer_and_wrench: Languages and Tools :
    <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
@@ -34,7 +38,11 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp;
  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" alt="Git" width="40" height="40"/>
 <!-- </div> -->
-<!--     <img src="" title="" alt="" width="40" height="40"/>&nbsp; -->
+<!--  <img src="" title="" alt="" width="40" height="40"/>&nbsp; -->
+
+
+
+
 
 
 ### :fire: My Stats :
@@ -60,6 +68,16 @@ Here are some ideas to get you started:
 -->
 
 <!-- ![Snake animation](https://github.com/Clinton-kitur/github-readme/blob/output/github-contribution-snake.svg) -->
+
+
+
+
+<a href="https://readme-jokes.vercel.app"><img align="center" src="https://readme-jokes.vercel.app/api" alt="README Jokes"></a>
+
+
+
+
+
 <div id="badges" align="center">
   <a href="https://www.linkedin.com/in/clinton-kitur-149b90262/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
@@ -75,4 +93,3 @@ Here are some ideas to get you started:
   </a>
 </div>
 
-<a href="https://readme-jokes.vercel.app"><img align="center" src="https://readme-jokes.vercel.app/api" alt="README Jokes"></a>
